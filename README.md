@@ -1,3 +1,3 @@
 # Demo001
 Repo for Demo
-Tis is a red me file required for the demo 
+This is a read me file required for the demo 
